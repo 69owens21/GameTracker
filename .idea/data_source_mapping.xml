@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ec23f86d-0e24-408c-9b53-cf24b07ae2dd/Achievements.sql" value="ec23f86d-0e24-408c-9b53-cf24b07ae2dd" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ec23f86d-0e24-408c-9b53-cf24b07ae2dd/Game_Ownership.sql" value="ec23f86d-0e24-408c-9b53-cf24b07ae2dd" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ec23f86d-0e24-408c-9b53-cf24b07ae2dd/Games.sql" value="ec23f86d-0e24-408c-9b53-cf24b07ae2dd" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ec23f86d-0e24-408c-9b53-cf24b07ae2dd/Platforms.sql" value="ec23f86d-0e24-408c-9b53-cf24b07ae2dd" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ec23f86d-0e24-408c-9b53-cf24b07ae2dd/Play_Sessions.sql" value="ec23f86d-0e24-408c-9b53-cf24b07ae2dd" />
+  </component>
+</project>
